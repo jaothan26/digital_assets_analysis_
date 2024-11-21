@@ -1,6 +1,6 @@
 # Digital Assets and Blockchain Monitoring
 
-These projects focuses on studying the market of digital asset data flows on blockchain systems, and analyzing on-chain data to monitor blockchain activity.
+These projects focus on studying the market of digital asset data flows on blockchain systems, and analyzing on-chain data to monitor blockchain activity.
 
 ### Objectives
 
